@@ -1,0 +1,199 @@
+ddpheno.obo
+Valid Accuracy = 0.37931034  
+Valid Accuracy10 = 0.71264368  
+Test Accuracy = 0.33333333  
+Test Accuracy10 = 0.64367816  
+ceph.obo 
+Valid Accuracy = 0.36363636  
+Valid Accuracy10 = 0.68560606  
+Test Accuracy = 0.39772727  
+Test Accuracy10 = 0.64772727  
+cdno.obo 
+Valid Accuracy = 0.25635593  
+Valid Accuracy10 = 0.30084746  
+Test Accuracy = 0.25158562  
+Test Accuracy10 = 0.29386892  
+eco.obo 
+Valid Accuracy = 0.34545455  
+Valid Accuracy10 = 0.53636364  
+Test Accuracy = 0.35135135  
+Test Accuracy10 = 0.53153153  
+xao.obo 
+Valid Accuracy = 0.30000000  
+Valid Accuracy10 = 0.54761905  
+Test Accuracy = 0.27619048  
+Test Accuracy10 = 0.56666667  
+cl.obo 
+Valid Accuracy = 0.29076752  
+Valid Accuracy10 = 0.60912125  
+Test Accuracy = 0.28609566  
+Test Accuracy10 = 0.60956618  
+hp.obo 
+Valid Accuracy = 0.27113527  
+Valid Accuracy10 = 0.51902174  
+Test Accuracy = 0.27687198  
+Test Accuracy10 = 0.52294686  
+doid.obo 
+Valid Accuracy = 0.26111583  
+Valid Accuracy10 = 0.44095157  
+Test Accuracy = 0.25792752  
+Test Accuracy10 = 0.42921857  
+fbbt.obo 
+Valid Accuracy = 0.02944910  
+Valid Accuracy10 = 0.09444021  
+Test Accuracy = 0.03148007  
+Test Accuracy10 = 0.09469408  
+mp.obo 
+Valid Accuracy = 0.42923434  
+Valid Accuracy10 = 0.69443155  
+Test Accuracy = 0.42389791  
+Test Accuracy10 = 0.68747100  
+
+fbbt.obo 
+Valid Accuracy = 0.04214268  
+Valid Accuracy10 = 0.12185834  
+Test Accuracy = 0.03985783  
+Test Accuracy10 = 0.11982737  
+mp.obo 
+fbbt.obo 
+Valid Accuracy = 0.04163493  
+Valid Accuracy10 = 0.11551155  
+Test Accuracy = 0.03985783  
+Test Accuracy10 = 0.11297284  
+mp.obo 
+fbbt.obo 
+fbbt.obo 
+ddpheno.obo 
+Valid Accuracy = 0.31818182  
+Valid Accuracy10 = 0.70454545  
+Test Accuracy = 0.34090909  
+Test Accuracy10 = 0.67045455  
+ceph.obo 
+Valid Accuracy = 0.43321300  
+Valid Accuracy10 = 0.66425993  
+Test Accuracy = 0.37184116  
+Test Accuracy10 = 0.66425993  
+cdno.obo 
+Valid Accuracy = 0.24050633  
+Valid Accuracy10 = 0.31223629  
+Test Accuracy = 0.24842105  
+Test Accuracy10 = 0.31368421  
+eco.obo 
+Valid Accuracy = 0.30630631  
+Valid Accuracy10 = 0.54954955  
+Test Accuracy = 0.47321429  
+Test Accuracy10 = 0.69642857  
+xao.obo 
+Valid Accuracy = 0.27142857  
+Valid Accuracy10 = 0.55238095  
+Test Accuracy = 0.27142857  
+Test Accuracy10 = 0.58571429  
+cl.obo 
+Valid Accuracy = 0.28542825  
+Valid Accuracy10 = 0.59733037  
+Test Accuracy = 0.28809789  
+Test Accuracy10 = 0.60066741  
+hp.obo 
+Valid Accuracy = 0.28472222  
+Valid Accuracy10 = 0.53200483  
+Test Accuracy = 0.26539855  
+Test Accuracy10 = 0.51992754  
+doid.obo 
+Valid Accuracy = 0.27010193  
+Valid Accuracy10 = 0.45243488  
+Test Accuracy = 0.26585504  
+Test Accuracy10 = 0.43346546  
+fbbt.obo 
+Valid Accuracy = 0.05661335  
+Valid Accuracy10 = 0.13201320  
+Test Accuracy = 0.06218274  
+Test Accuracy10 = 0.14137056  
+mp.obo 
+Valid Accuracy = 0.41670534  
+Valid Accuracy10 = 0.68283063  
+Test Accuracy = 0.40672854  
+Test Accuracy10 = 0.67540603  
+fbbt.obo 
+fbbt.obo 
+Valid Accuracy = 0.04315816  
+Valid Accuracy10 = 0.12642803  
+fbbt.obo 
+Valid Accuracy = 0.04315816  
+Valid Accuracy10 = 0.12642803  
+Test Accuracy = 0.04974619  
+Test Accuracy10 = 0.12994924  
+mp.obo 
+fbbt.obo 
+Valid Accuracy = 0.04366591  
+Valid Accuracy10 = 0.12693577  
+Test Accuracy = 0.04873096  
+Test Accuracy10 = 0.13045685  
+mp.obo 
+fbbt.obo 
+Valid Accuracy = 0.05661335  
+Valid Accuracy10 = 0.13201320  
+Test Accuracy = 0.06218274  
+Test Accuracy10 = 0.14137056  
+mp.obo 
+Valid Accuracy = 0.36171694  
+Valid Accuracy10 = 0.63271462  
+Test Accuracy = 0.34941995  
+Test Accuracy10 = 0.62250580  
+fbbt.obo 
+Valid Accuracy = 0.04341203  
+Valid Accuracy10 = 0.11728865  
+Test Accuracy = 0.04873096  
+Test Accuracy10 = 0.12664975  
+mp.obo 
+Valid Accuracy = 0.35104408  
+Valid Accuracy10 = 0.61206497  
+Test Accuracy = 0.34222738  
+Test Accuracy10 = 0.61044084  
+fbbt.obo 
+Valid Accuracy = 0.04239655  
+Valid Accuracy10 = 0.11906575  
+Test Accuracy = 0.04796954  
+Test Accuracy10 = 0.11928934  
+mp.obo 
+fbbt.obo 
+Valid Accuracy = 0.04239655  
+Valid Accuracy10 = 0.14902259  
+Test Accuracy = 0.04796954  
+Test Accuracy10 = 0.15634518  
+mp.obo 
+Valid Accuracy = 0.35197216  
+Valid Accuracy10 = 0.68700696  
+Test Accuracy = 0.34361949  
+Test Accuracy10 = 0.68143852  
+fbbt.obo 
+Valid Accuracy = 0.04239655  
+Valid Accuracy10 = 0.17085555  
+Test Accuracy = 0.04796954  
+Test Accuracy10 = 0.18121827  
+mp.obo 
+Valid Accuracy = 0.35197216  
+Valid Accuracy10 = 0.73921114  
+Test Accuracy = 0.34361949  
+Test Accuracy10 = 0.73805104  
+fbbt.obo 
+Valid Accuracy = 0.04239655  
+Valid Accuracy10 = 0.20081239  
+Test Accuracy = 0.04796954  
+Test Accuracy10 = 0.21269036  
+mp.obo 
+fbbt.obo 
+fbbt.obo 
+fbbt.obo 
+fbbt.obo 
+fbbt.obo 
+fbbt.obo 
+fbbt.obo 
+Valid Accuracy = 0.04290429  
+Valid Accuracy10 = 0.26554963  
+Test Accuracy = 0.04746193  
+Test Accuracy10 = 0.27487310  
+mp.obo 
+Valid Accuracy = 0.35127610  
+Valid Accuracy10 = 0.91484919  
+Test Accuracy = 0.34292343  
+Test Accuracy10 = 0.91392111  

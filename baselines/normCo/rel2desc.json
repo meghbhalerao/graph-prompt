@@ -1,0 +1,59 @@
+{
+    "cl.obo": {
+        "is_a": "is a kind of",
+        "capable_of": "is capable of",
+        "negatively_regulates": "negatively regulates",
+        "positively_regulates": "positively regulates",
+        "regulates": "regulates",
+        "part_of": "is part of",
+        "has_part": "has",
+        "develops_from": "develops from"
+    },
+    "ddpheno.obo": {
+        "is_a": "is a kind of"
+    },
+    "ceph.obo": {
+        "is_a": "is a kind of",
+        "part_of": "is part of",
+        "trait_of": "has a trait named",
+        "continuous_with": "is continuous with",
+        "has_part": "has"
+    },
+    "cdno.obo": {
+        "is_a": "is a kind of"
+    },
+    "eco.obo": {
+        "is_a": "is a kind of",
+        "used_in": "is used in"
+    },
+    "xao.obo": {
+        "is_a": "is a kind of",
+        "part_of": "is part of",
+        "develops_from": "develops from",
+        "preceded_by": "is preceded by",
+        "start_stage": "has a start stage named",
+        "end_stage": "has an end stage named"
+    },
+    "hp.obo": {
+        "is_a": "is a kind of"
+    },
+    "doid.obo": {
+        "is_a": "is a kind of"
+    },
+    "fbbt.obo": {
+        "is_a": "is a kind of",
+        "part_of": "is part of",
+        "develops_from": "develops from",
+        "has_sensory_dendrite_in": "has sensory dendrite in",
+        "sends_synaptic_output_to": "sends synaptic output to",
+        "synapsed_to": "is synapsed to",
+        "synapsed_by": "is synapsed by",
+        "continuous_with": "is continuous with",
+        "synapsed_via_type_Ib_bouton_to": "is synapsed via type Ib bouton to",
+        "receives_synaptic_input_in": "receives synaptic input in",
+        "overlaps": "overlaps"
+    },
+    "mp.obo": {
+        "is_a":"is a kind of"
+    }
+}
