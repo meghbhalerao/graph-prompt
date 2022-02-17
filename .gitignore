@@ -1,1 +1,3 @@
 exp/
+baselines/triplet-net/wikipedia-pubmed-and-PMC-w2v.bin
+baselines/triplet-net/BioWordVec_PubMed_MIMICIII_d200.vec.bin
