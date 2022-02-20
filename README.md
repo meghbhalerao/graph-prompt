@@ -3,7 +3,7 @@ GraphPrompt code
 
 ## Environment
 
-- linux (/tmp folder for storing tmp files)
+- linux (`./tmp` folder for storing tmp files)
 - pytorch
 ## Folder Structure
 - `./baselines/` folder contains code for baselines that we have compared graphprompt with. Please navigate to the `./baselines/` folder to see how to run and reproduce the results of the baselines.
