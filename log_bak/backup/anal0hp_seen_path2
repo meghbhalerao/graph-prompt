@@ -1,7 +1,0 @@
-{'filename': '../data/datasets/hp.obo', 'use_text_preprocesser': False, 'is_unseen': False, 'pretrained_model': 'dmis-lab/biobert-base-cased-v1.2', 'exp_path': '../exp/0hp_seen_path2', 'max_seq_len': 60, 'eval_k': 10, 'epoch_num': 10, 'syn_ratio': 2.0, 'ent_ratio': 1.0, 'hrt_ratio': 2.0, 'path_depth': 2, 'lr': 0.0002, 'weight_decay': 0, 'batch_size': 64, 'use_scheduler': True, 'emb_init_std': 0.001, 'use_get_ent_emb': False, 'pretrain_emb_iter': 400, 'max_grad_norm': 0, 'seed': 0, 'logger': <Logger ../exp/0hp_seen_path2 (INFO)>}
-mention num 36614
-names num 16544
-query num 20070
-edge num 20464
-triple num 20464
-bad args!
