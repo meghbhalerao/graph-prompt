@@ -2,3 +2,14 @@ exp/
 baselines/triplet-net/wikipedia-pubmed-and-PMC-w2v.bin
 baselines/triplet-net/BioWordVec_PubMed_MIMICIII_d200.vec.bin
 __pycache__/
+baselines/bne/data/datasets/
+baselines/bne/code/biobert/
+baselines/bne/exp/
+baselines/bne/biobert/
+baselines/bne/bne_embeddings/
+baselines/bne/bne_resources/embeddings/
+baselines/bne/bne_resources/models/
+baselines/bne/bne_resources/names_bne_SGsc.txt
+baselines/bne/bne_resources/umls_names.txt
+baselines/bne/bne_resources/temp_files/
+baselines/bne/BNE_SGsc/
